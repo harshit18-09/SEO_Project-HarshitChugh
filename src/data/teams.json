@@ -1,0 +1,23 @@
+[
+  {
+    "id": "los-angeles-lakers",
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "conference": "Western",
+    "titles": 17
+  },
+  {
+    "id": "golden-state-warriors",
+    "name": "Golden State Warriors",
+    "city": "San Francisco",
+    "conference": "Western",
+    "titles": 7
+  },
+  {
+    "id": "boston-celtics",
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "conference": "Eastern",
+    "titles": 17
+  }
+]

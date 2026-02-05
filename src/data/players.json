@@ -1,0 +1,29 @@
+[
+  {
+    "id": "lebron-james",
+    "name": "LeBron James",
+    "team": "los-angeles-lakers",
+    "position": "SF",
+    "ppg": 27.1,
+    "apg": 7.4,
+    "rpg": 7.5
+  },
+  {
+    "id": "stephen-curry",
+    "name": "Stephen Curry",
+    "team": "golden-state-warriors",
+    "position": "PG",
+    "ppg": 24.8,
+    "apg": 6.4,
+    "rpg": 4.7
+  },
+  {
+    "id": "jayson-tatum",
+    "name": "Jayson Tatum",
+    "team": "boston-celtics",
+    "position": "SF",
+    "ppg": 26.9,
+    "apg": 4.9,
+    "rpg": 8.1
+  }
+]
