@@ -14,6 +14,17 @@ This project generates SEO-optimized pages for:
 
 Each page is server-rendered with dynamic metadata, OpenGraph tags, and JSON-LD structured data.
 
+## Lighthouse Audit
+
+The deployed application was tested using Google Lighthouse (Desktop):
+
+- Performance: 95
+- Accessibility: 100
+- Best Practices: 100
+- SEO: 100
+
+This confirms that the application follows modern performance, accessibility, and SEO best practices.
+
 ## Tech Stack
 
 - **Next.js 14** 
